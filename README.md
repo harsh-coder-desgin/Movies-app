@@ -17,9 +17,8 @@ Displays a list of top box office hits currently trending.
 ![Screenshot 2025-05-04 154903](https://github.com/user-attachments/assets/ca9696d6-98d4-4fa2-bdce-f4763452528e)
 
 
-3. Movie Details Page
+3.Movie Details Page
 When a user clicks on a movie poster, they are directed to a detailed page that shows:
-
 Movie Rating
 
 Genre(s)

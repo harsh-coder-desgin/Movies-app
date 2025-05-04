@@ -1,35 +1,55 @@
 This is my app Movies app of image in Next js app:
-![Screenshot 2025-05-04 155043](https://github.com/user-attachments/assets/c8eb7ef4-232c-422f-870e-750a34ec4b52)
 
 1.Slideshow of Home page.
+
 ![Screenshot 2025-05-04 154844](https://github.com/user-attachments/assets/018d4580-a566-4787-9026-e6382b3dffe8)
 
+
+![Screenshot 2025-05-04 161302](https://github.com/user-attachments/assets/63ee94c9-6c97-4924-a65f-989050c10247)
+
+
 2.In this page Top Box Office movies has show.
+
 ![Screenshot 2025-05-04 154903](https://github.com/user-attachments/assets/ca9696d6-98d4-4fa2-bdce-f4763452528e)
 
+
 3.In this page after user click on icon of movie it can see moves detail like rating,Genres,Release Date,Movies Length etc has shown
+
 ![Screenshot 2025-05-04 154919](https://github.com/user-attachments/assets/96804766-f61b-4b78-86a0-44c6d03c7a02)
+
 
 ![Screenshot 2025-05-04 154937](https://github.com/user-attachments/assets/c1985a5c-1808-4064-b551-d85717772351)
 
+
 ![Screenshot 2025-05-04 154955](https://github.com/user-attachments/assets/367923af-7eb7-4a46-b8a2-43d3c13a9d9f)
 
+
 4 Top movies
+
 ![Screenshot 2025-05-04 155018](https://github.com/user-attachments/assets/16e098ef-4323-4dd4-a228-bf4289bd222f)
 
 5.Top shows
+
 ![Screenshot 2025-05-04 155043](https://github.com/user-attachments/assets/57914a65-1ee7-4c35-9489-c3dd1a74e8c2)
 
 6.Upcomeing Release
+
 ![Screenshot 2025-05-04 155242](https://github.com/user-attachments/assets/95d2aa95-a610-4e9d-acd9-f6e510c7c28b)
 
 7.Indian Spotlight
+
+
 ![Screenshot 2025-05-04 155457](https://github.com/user-attachments/assets/42cff106-ecfd-4396-9578-806cb7079e08)
+
 
 ![Screenshot 2025-05-04 155522](https://github.com/user-attachments/assets/4e3429dd-ed88-41ae-83ec-a06c93779cf1)
 
+
 ![Screenshot 2025-05-04 155542](https://github.com/user-attachments/assets/4bc3fce7-06f9-41ac-aead-2008fcee2b12)
 
+
+
+![Screenshot 2025-05-04 155556](https://github.com/user-attachments/assets/865d9842-6bea-46c5-abc4-82b97edf632e)
 
 
 

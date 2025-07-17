@@ -24,28 +24,36 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page – Featured Movies  
-![Home](https://github.com/user-attachments/assets/018d4580-a566-4787-9026-e6382b3dffe8)
+<img width="1691" height="796" alt="Screenshot 2025-07-17 194710" src="https://github.com/user-attachments/assets/69232d4d-53ea-4e4f-a4d1-c17da65fc827" />
+
 
 ---
 
 ### 💰 Top Box Office  
-![Box Office](https://github.com/user-attachments/assets/ca9696d6-98d4-4fa2-bdce-f4763452528e)
+<img width="1685" height="802" alt="Screenshot 2025-07-17 194756" src="https://github.com/user-attachments/assets/bff49412-236f-4639-b9aa-8ee06d65771c" />
+
 
 ---
 
 ### 🎫 Movie Details Page  
-![Details](https://github.com/user-attachments/assets/c1985a5c-1808-4064-b551-d85717772351)
+<img width="1687" height="790" alt="Screenshot 2025-07-17 194835" src="https://github.com/user-attachments/assets/6719a51f-5757-4e23-900a-a02cbe2b3d0c" />
+
 
 ---
 
 ### 🏆 Top Movies & TV Shows  
-![Top Movies](https://github.com/user-attachments/assets/16e098ef-4323-4dd4-a228-bf4289bd222f)  
-![Top Shows](https://github.com/user-attachments/assets/57914a65-1ee7-4c35-9489-c3dd1a74e8c2)
+<img width="1692" height="785" alt="Screenshot 2025-07-17 194855" src="https://github.com/user-attachments/assets/c905359f-676e-4a77-be47-3d930c7ddf7f" />
+
+---
+
+<img width="1691" height="796" alt="Screenshot 2025-07-17 194910" src="https://github.com/user-attachments/assets/376ed1ef-8055-4747-9203-18aef433e18a" />
+
 
 ---
 
 ### 🎥 Indian Cinema Spotlight  
-![Indian](https://github.com/user-attachments/assets/4bc3fce7-06f9-41ac-aead-2008fcee2b12)
+<img width="1690" height="802" alt="Screenshot 2025-07-17 194927" src="https://github.com/user-attachments/assets/f5bb46f1-be6f-48a8-b37b-88d9e44c2bb4" />
+
 
 ---
 

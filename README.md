@@ -49,38 +49,34 @@
 
 ---
 
-## 📁 Folder Structure (Simplified)
-/app
-/home
-/movie
-/top-movies
-/top-shows
-/indian
-/api
+## 📁 Folder Structure
+- services/
+  - famousmovies.js
+  - getmovies.js
+  - indian.js
+  - topbox.js
+  - topshows.js
+  - upcomingreleases.js
 
-/components
-
-MovieCard.jsx
-
-Header.jsx
-
-Footer.jsx
-
-/lib
-
-fetchMovies.js
-
-/styles
-
-globals.css
-
+- src/
+  - app/
+    - _components/
+      - Navbar.js
+      - Slideshow.js
+      - Topbox.js
+      - Topmovies.js
+    - detail/page.js
+    - indianspotlight/page.js
+    - movies/page.js
+    - shows/page.js
+    - upcomingreleases/page.js
 ---
 
 ## 🧑‍💻 Author
 
-Made by [Harsh Patel](https://github.com/yourgithub)
+Made by [Harsh Patel](https://github.com/harsh-coder-desgin)
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harsh-patel-2b3405303/)  
 
 ---
 
